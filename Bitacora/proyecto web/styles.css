@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0 ;
+    box-sizing: border-box;
+}
+body{
+    font-family:Arial;
+    background-image: url(fondo.jpg);
+    position: absolute;
+top: 10px; left: 500px;
+}
+
+.Primera-parte{
+    width: 400px;
+    height: 340px;
+    background: #4e4e4e;;
+    margin:auto;
+    margin-top: 100px;
+    box-shadow: 7px 13px 37px rgb(19,248,248);
+    padding: 20px 30px;
+    border-top: 4px solid #010101;
+    color:beige;
+}
